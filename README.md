@@ -27,10 +27,8 @@ Non Certificated:
   - some other but not much: GTA SA and BUSSID
 - Backend: PHP base level
 
-Certification: <br/>
-<div align="center">
-  <img src="https://github.com/Abyanu163/Abyanu163/assets/127492205/69c90e85-2a4b-4666-9026-34efc72b0a30" alt="Network Essentials Certified from Cisco" width="100px" />
-</div>
+Certificatied:
+- Networking Essentials (from NetAcad, some basic level have skill)
 
 <!--
 **Abyanu163/Abyanu163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
